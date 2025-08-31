@@ -1,0 +1,79 @@
+#################################################################################################################################################
+Puzzle 8.
+
+En este proyecto, desarrollarás un juego utilizando un algoritmo de búsqueda. 
+Esta tarea te ayudará a comprender los conceptos de inteligencia y pensamiento mientras creas un programa que pueda resolver un rompecabezas.
+
+A continuación se muestran instrucciones detalladas para guiarlo a través del proceso de completar esta tarea.
+
+#################################################################################################################################################
+Descripción general de la tarea
+Tu tarea es crear el juego Puzzle 8 utilizando uno de los siguientes algoritmos de búsqueda:
+
+- Algoritmo de búsqueda en profundidad 
+- Algoritmo de búsqueda A* 
+- Algoritmo de búsqueda amplio 
+
+Utilizarás el lenguaje de programación Python para desarrollar este juego. El proyecto final debe incluir una interfaz de usuario,
+una explicación clara de su código y documentación completa.
+
+##################################################################################################################################################
+Pasos para completar la tarea:
+
+1. Elige tu algoritmo de búsqueda
+Antes de comenzar a codificar, debe seleccionar qué algoritmo de búsqueda usará para su juego Puzzle 8. Aquí hay una breve descripción general de cada opción:
+
+Algoritmo de búsqueda profunda: Este algoritmo explora lo más lejos posible a lo largo de cada rama antes de regresar. Es útil para problemas con un gran espacio de búsqueda.
+
+Algoritmo de búsqueda A: Este es un algoritmo popular que utiliza heurística para encontrar el camino más corto hacia la meta. Combina funciones de búsqueda en amplitud y profundidad.
+
+Algoritmo de búsqueda amplia: Este algoritmo escanea todos los nodos vecinos a la profundidad actual antes de pasar a los nodos en el siguiente nivel de profundidad.
+Es eficaz para encontrar el camino más corto en gráficos no ponderados.
+
+Consejo: Considere las fortalezas y debilidades de cada algoritmo en relación con el juego Puzzle 8. Elige el que te sientas más cómodo implementando.
+
+----------
+
+2. Desarrollando el juego en Python 
+Una vez que hayas elegido tu algoritmo, ¡es hora de empezar a codificar! Estos son algunos pasos para ayudarlo con el proceso de desarrollo:
+
+Configura tu entorno de desarrollo: Asegúrate de tener Python instalado en tu computadora. Puede usar un IDE como PyCharm, Visual Studio Code o incluso Jupyter Notebook para escribir el código. 
+
+Crea la lógica del juego: Empieza por definir las reglas del juego Puzzle 8. Esto incluye cómo se mueven las fichas, cómo verificar una condición de victoria y cómo representar el estado del juego. 
+
+Implementar algoritmo de búsqueda: Integra el algoritmo de búsqueda que seleccionaste en la lógica de tu juego. Esto permitirá que el juego encuentre soluciones al rompecabezas. 
+
+----------
+
+3. Diseño de interfaz de usuario
+Una interfaz fácil de usar es crucial para tu juego. Aquí hay algunos consejos para crearlo:
+
+Elige un framework: Puedes usar librerías como Tkinter o Pygame para crear tu interfaz de usuario. Estas bibliotecas proporcionan herramientas para crear ventanas, botones y otros elementos interactivos.
+
+Diseño de diseño: Planifica cómo se verá tu juego. Considere dónde se mostrarán las fichas del rompecabezas, cómo interactuará el usuario con el juego y dónde mostrar mensajes o instrucciones.
+
+Interacción del usuario: asegúrese de que los usuarios puedan entender fácilmente cómo jugar. Incluye botones para acciones como "Iniciar", "Restablecer" y "Resolver".
+
+----------
+
+4. Explicación del código
+Una vez que hayas desarrollado tu juego, es importante explicar tu código claramente. Así es cómo:
+
+Comenta tu código: A medida que escribes tu código, agrega comentarios para explicar lo que hace cada parte. Esto ayudará a otros (y a ti mismo) a comprender tu proceso de pensamiento.
+
+Crea un documento de explicación por separado: Escribe un documento que explique la estructura general de tu código, el propósito de cada característica y cómo funciona el algoritmo de búsqueda en el juego. Utilice un lenguaje claro y conciso.
+
+----------
+
+5. Documentación
+La documentación es esencial para cualquier proyecto de programación. Esto es lo que debe incluir:
+
+Descripción general del proyecto: Escribe una breve introducción a tu juego Puzzle 8, incluido su propósito y cómo funciona.
+
+Instrucciones de instalación: Proporciona pasos claros sobre cómo ejecutar tu juego. Incluya las dependencias que deban instalarse.
+
+Instrucciones de uso: Explica cómo jugar, incluidos los controles y los objetivos.
+
+Documentación de código: Asegúrese de que su código esté bien documentado con comentarios y explicaciones para cada función y clase.
+
+----------
